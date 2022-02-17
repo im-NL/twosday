@@ -12,9 +12,9 @@
 - If you have git installed on your computer:
     - Go to cmd.
     - Run the following commands:
-        ``git clone https://github.com/im-NL/twosday.git``
-        ``cd twosday``
-        ``python twosday.py``
+        ``git clone https://github.com/im-NL/twosday.git`` <br>
+        ``cd twosday`` <br>
+        ``python twosday.py`` <br>
 
 The date is set to `22022022` but you can change it if you'd like to see for other dates.
 The image used to check whether the date is an ambigram is `twosday.jpeg`, result may change with different images but should most work.
